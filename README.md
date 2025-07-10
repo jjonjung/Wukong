@@ -4,23 +4,25 @@
 - 문서: https://drive.google.com/drive/folders/1ywouKtkQg_4W45hVxTKPLU7safJd9XiP
 
 ## < 구현 기술 >
-<p align="left">
-<img src="add/Oh.png" alt="오공" width="200"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="left">
+      <img src="add/Oh.png" alt="오공" width="200"/><br>
+      <b>오공(플레이어)</b><br>
+      i. 분신술<br>
+      ii. 기화술<br>
+      iii. 정지술<br>
+    </td>
+    <td width="50%" align="right">
+      <img src="add/Hoo.png" alt="호선봉" width="200"/><br>
+      <b>호선봉(보스)</b><br>
+      i. 태권<br>
+      ii. 한손땅<br>
+      iii. 엎드려바위<br>
+    </td>
+  </tr>
+</table>
 
-- 오공(플레이어) <br>
-    1. 분신술<br>
-    2. 기화술<br>
-    3. 정지술<br>
- 
-<p align="left">
-  <img src="add/Hoo.png" alt="호선봉" width="200"/>
-</p>
-
-- 호선봉(보스)<br>
-    1. 태권<br>
-    2. 한손땅<br>
-    3. 엎드려바위
 
 
 
