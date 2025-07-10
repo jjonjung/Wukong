@@ -1,4 +1,4 @@
-# 검은신화 오공
+# [검은 신화: 오공] 모작 기획
 
 - 원작: https://store.steampowered.com/app/2358720/Black_Myth_Wukong/
 - 문서: https://drive.google.com/drive/folders/1ywouKtkQg_4W45hVxTKPLU7safJd9XiP
