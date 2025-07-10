@@ -15,5 +15,9 @@
     2. 한손땅
     3. 엎드려바위
  
-![오공](add/Oh.png) ![호선봉](add/Hoo.png)
+<p align="center">
+  <img src="add/Oh.png" alt="오공" width="200"/>
+  <img src="add/Hoo.png" alt="호선봉" width="200"/>
+</p>
+
 
