@@ -15,7 +15,7 @@
     </td>
     <td width="50%" align="center">
       <img src="add/Oh.png" alt="오공" width="200"/><br>
-      <b>오공(플레이어) - 조은정</b><br>
+      <br><b>오공(플레이어) - 조은정</b><br>
       i. 분신술<br>
       ii. 기화술<br>
       iii. 정지술<br>
